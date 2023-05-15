@@ -1,4 +1,5 @@
 import ClientOnly from "@/components/ClientOnly";
+import Container from "@/components/Container";
 import Hero from "@/components/Hero/Hero";
 
 export default function Home() {
